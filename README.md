@@ -4,6 +4,7 @@
 
 ![DRG4FOOD](https://img.shields.io/badge/DRG4FOOD-project-green)
 ![Status](https://img.shields.io/badge/status-reference-lightgrey)
+![release](https://img.shields.io/badge/release-v0.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 Pinacle is a DRG4FOOD Open Call project applying AI-supported nutrition planning with privacy-preserving digital identity to food-aid workflows. Developed by Sapienza University of Rome, Co2gether and Konnecta (Food Bank of Western Greece) and carried out from **October 2024 to September 2025**. Pinacle contributes an open, reusable ZKP identity layer to the DRG4FOOD Toolbox, enabling privacy-preserving verification capabilities across food-system applications.
